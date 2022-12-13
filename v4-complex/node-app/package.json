@@ -1,0 +1,26 @@
+{
+  "name": "docker-on-terraform",
+  "version": "1.0.0",
+  "description": "A hello world project demonstrating use of Docker service with Terraform.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashutoshkarna03/docker-on-terraform.git"
+  },
+  "keywords": [
+    "terraform",
+    "docker"
+  ],
+  "author": "Basic name",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashutoshkarna03/docker-on-terraform/issues"
+  },
+  "homepage": "https://github.com/ashutoshkarna03/docker-on-terraform#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
